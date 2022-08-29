@@ -1,13 +1,13 @@
 # reading-notes
 My Reading Notes
 
-My name is Steven Rejdukowski im am ready to start my coding journey!
+My name is Steven Rejdukowski and I am ready to start my coding journey! It has been a goal of mine to learn coding for a while and now I am getting into it.
 
 Feel free to email me at steve0732@gmail.com
 
 *To me a growth mindset is being open to whatever comes your way. If something is not easy or familiar that usually means there is an oppurtunity for growth in that situation.*
 
-### **3 Reminders to kep myself in the growth mindset:**
+### **3 Reminders to keep myself in the growth mindset:**
 - Stay open minded
 - trust yourself, you are always greater than you know
 - be willing to receive help from others, *you* cannot do <sub>everything</sub> on your own
