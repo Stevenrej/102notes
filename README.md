@@ -12,8 +12,7 @@ Feel free to email me at steve0732@gmail.com
 - trust yourself, you are always greater than you know
 - be willing to receive help from others, *you* cannot do <sub>everything</sub> on your own
 
-[https://stevenrej.github.io/reading-notes/ 
-](url)
+[My Link!](url)
 
 
 ![ThinkstockPhotos-827261360](https://user-images.githubusercontent.com/112358229/187275506-1ce8fa6c-c426-4ee6-a7ed-0bf8d6eab1ce.jpeg)
