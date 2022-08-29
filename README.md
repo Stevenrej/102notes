@@ -5,9 +5,9 @@ My Reading Notes
 
 ### **3 Reminders to kep myself in the growth mindset:**
 -Stay open minded
--trust yourself, you arealways greater than you know
--be willing to recive help from others you cannot do everything on your own
+-trust yourself, you are always greater than you know
+-be willing to recive help from others you cannot do <sub>everything</sub> on your own
 
 https://stevenrej.github.io/reading-notes/
 
-! [Otter] (https://www.otterspecialistgroup.org/osg-newsite/wp-content/uploads/2017/04/ThinkstockPhotos-827261360.jpg)
+![ThinkstockPhotos-827261360](https://user-images.githubusercontent.com/112358229/187275506-1ce8fa6c-c426-4ee6-a7ed-0bf8d6eab1ce.jpeg)
