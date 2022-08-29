@@ -9,3 +9,5 @@ My Reading Notes
 -be willing to recive help from others you cannot do everything on your own
 
 https://stevenrej.github.io/reading-notes/
+
+! [Otter] (https://www.otterspecialistgroup.org/osg-newsite/wp-content/uploads/2017/04/ThinkstockPhotos-827261360.jpg)
