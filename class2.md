@@ -1,6 +1,6 @@
 # Class 2 Reading Notes
 
-NOTES 
+*NOTES*
 
 **CHOOSING TEXT EDITORS**
 
