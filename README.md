@@ -1,5 +1,6 @@
-# reading-notes
-My Reading Notes
+# Reading Notes
+
+### My Reading Notes Webpage
 
 My name is Steven Rejdukowski and I am ready to start my coding journey! It has been a goal of mine to learn coding for a while and now I am getting into it.
 
@@ -12,5 +13,4 @@ Feel free to email me at steve0732@gmail.com
 - [Class 4](https://stevenrej.github.io/reading-notes/class4)
 
 [My Link!](https://stevenrej.github.io/reading-notes/)
-
 
