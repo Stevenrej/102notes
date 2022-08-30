@@ -57,3 +57,4 @@ NO SPACES
 
 If the file or directory's name begins with a . (full stop) then it is considered to be hidden. 
 
+[Back to Home](https://stevenrej.github.io/reading-notes/)

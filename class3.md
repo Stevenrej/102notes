@@ -25,3 +25,5 @@ Modified
 File has been changed but not committed to the database
 Staged
 Flagged a file’s changed version to be committed in the next snapshot
+
+[Back to Home](https://stevenrej.github.io/reading-notes/)
