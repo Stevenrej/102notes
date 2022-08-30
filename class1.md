@@ -7,9 +7,10 @@ My name is Steven Rejdukowski and I am ready to start my coding journey! It has 
 To me a growth mindset is being open to whatever comes your way. If something is not easy or familiar that usually means there is an oppurtunity for growth in that situation.
 
 3 Reminders to keep myself in the growth mindset:
-Stay open minded
-trust yourself, you are always greater than you know
-be willing to receive help from others, you cannot do everything on your own
-My Link! (Links to an external site.)
+
+- Stay open minded
+- trust yourself, you are always greater than you know
+- be willing to receive help from others, you cannot do everything on your own
+
 
 [Back to Home](https://stevenrej.github.io/reading-notes/)
