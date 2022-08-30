@@ -6,6 +6,8 @@ My name is Steven Rejdukowski and I am ready to start my coding journey! It has 
 
 Feel free to email me at steve0732@gmail.com
 
+- [Class 1](https://stevenrej.github.io/reading-notes/class1)
+
 - [Class 2](https://stevenrej.github.io/reading-notes/class2)
 
 - [Class 3](https://stevenrej.github.io/reading-notes/class3)
