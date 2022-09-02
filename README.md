@@ -22,9 +22,6 @@ Feel free to email me at steve0732@gmail.com
 
 - [Class 8](https://stevenrej.github.io/reading-notes/class8)
 
-- [Class 9](https://stevenrej.github.io/reading-notes/class9)
-
-- [Class 10](https://stevenrej.github.io/reading-notes/class10)
 
 [My Link!](https://stevenrej.github.io/reading-notes/)
 
