@@ -18,6 +18,6 @@
 
 - [Class 8](https://stevenrej.github.io/102notes/class8)
 
- [Back To Main Page](https://stevenrej.github.io/reading-notes/)
+ [Back To Main Page](https://stevenrej.github.io/reading-notes/)](https://stevenrej.github.io/reading-notes/)
 
 
