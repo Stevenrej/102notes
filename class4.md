@@ -82,4 +82,4 @@ Semantic naming mirrors proper custom element/component naming
 
 
 
-[Back to Home](https://stevenrej.github.io/reading-notes/)
+[Back to Home](https://stevenrej.github.io/102notes/)
