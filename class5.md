@@ -18,4 +18,4 @@ At this stage, you don't need to worry too much about how CSS is structured; how
 
 For a specific example, let's go back to the Backgrounds and Borders module — you might think that it makes logical sense for the background-color and border-color properties to be defined in this module. And you'd be right.
 
-[Back to Home](https://stevenrej.github.io/reading-notes/)
+[Back to Home](https://stevenrej.github.io/102notes/)
