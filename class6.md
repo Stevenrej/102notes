@@ -107,3 +107,6 @@ In JavaScript, however, it makes perfect sense: it assigns the value of x + 5 to
 
 Note
 The "equal to" operator is written like == in JavaScript.
+
+
+[Back to Home](https://stevenrej.github.io/102notes/)
