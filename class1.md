@@ -13,4 +13,4 @@ To me a growth mindset is being open to whatever comes your way. If something is
 - be willing to receive help from others, you cannot do everything on your own
 
 whats up bro
-[Back to Home](https://stevenrej.github.io/reading-notes/)
+[Back to Home](https://stevenrej.github.io/102notes/)
