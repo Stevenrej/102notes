@@ -50,4 +50,4 @@ When an event occurs (when a user clicks a button)
 When it is invoked (called) from JavaScript code
 Automatically (self invoked)
 
-[Back to Home](https://stevenrej.github.io/reading-notes/)
+[Back to Home](https://stevenrej.github.io/102notes/)
