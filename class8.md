@@ -295,4 +295,4 @@ var2 <= 5
 Note: => is not a comparison operator but rather is the notation for Arrow functions.
 
 
-[Back to Home](https://stevenrej.github.io/reading-notes/)
+[Back to Home](https://stevenrej.github.io/102notes/)
